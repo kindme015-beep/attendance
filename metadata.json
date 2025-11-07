@@ -1,0 +1,5 @@
+{
+  "name": "Smart Attendance System",
+  "description": "An intuitive attendance management application with separate portals for administrators and users. Admins can manage users and view attendance sheets, while users can clock in and out. The system flags irregular attendance patterns for admin review.",
+  "requestFramePermissions": []
+}
